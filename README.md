@@ -44,5 +44,5 @@ My implementation: [rcore](https://github.com/LearningOS/2024a-rcore-wang-zhuora
 ## Day 1 2024/09/27
 由于之前已经在学校学过Rust, Rust第一阶段的学习就不记录了，而27号刚好是完成rustlings的日期，因而以2024年9月27号为开始记录学习的第一天。
 
-## Day 14 2024/10/11
+## Day 15 2024/10/11
 配置rcore环境
