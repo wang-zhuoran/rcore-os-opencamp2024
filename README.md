@@ -2,7 +2,14 @@
 
 My implementation: [rcore](https://github.com/LearningOS/2024a-rcore-wang-zhuoran)
 
-TOC
+参考资料：
+
+- [rcore实验手册](https://learningos.cn/rCore-Camp-Guide-2024A/index.html)
+- [Comprehensive Rust 🦀](https://google.github.io/comprehensive-rust/zh-CN/)
+- [Rust Docs](https://doc.rust-lang.org/std/index.html)
+- [Rust Book](https://doc.rust-lang.org/book/)
+
+
 
 ## TOC
 
@@ -35,4 +42,7 @@ TOC
 
 
 ## Day 1 2024/09/27
-<a id="#day-1-20240927"></a>
+由于之前已经在学校学过Rust, Rust第一阶段的学习就不记录了，而27号刚好是完成rustlings的日期，因而以2024年9月27号为开始记录学习的第一天。
+
+## Day 11 2024/10/11
+配置rcore环境
