@@ -53,3 +53,12 @@ My implementation: [rcore](https://github.com/LearningOS/2024a-rcore-wang-zhuora
 
 ## Day 17 2024/10/13
 - 阅读rcore-tutorial 第二章
+
+## Day 18 2024/10/14
+- 开始阅读rcore-tutorial 第三章
+
+## Day 19 2024/10/15
+- 开始写lab1
+
+## Day 20 2024/10/16
+- lab1 完成
