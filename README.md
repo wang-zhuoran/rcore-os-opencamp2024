@@ -58,10 +58,10 @@ My implementation: [rcore](https://github.com/LearningOS/2024a-rcore-wang-zhuora
 - 开始阅读rcore-tutorial 第三章
 
 ## Day 19 2024/10/15
-- 开始写lab1
+- 开始写lab3
 
 ## Day 20 2024/10/16
-- lab1 完成
+- lab3 完成
 
 ## Day 21 2024/10/17
 - 开始阅读rcore-tutorial 第四章
