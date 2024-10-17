@@ -65,3 +65,4 @@ My implementation: [rcore](https://github.com/LearningOS/2024a-rcore-wang-zhuora
 
 ## Day 21 2024/10/17
 - 开始阅读rcore-tutorial 第四章
+- 复习Rust中的动态内存分配：[Rust的动态内存分配](https://rcore-os.cn/rCore-Tutorial-Book-v3/chapter4/1rust-dynamic-allocation.html)
