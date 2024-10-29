@@ -69,3 +69,6 @@ My implementation: [rcore](https://github.com/LearningOS/2024a-rcore-wang-zhuora
 
 ## Day 28 2024/10/24
 - 完成lab4
+
+## Day 32 2024/10/28
+- 开始阅读rcore-tutorial 第五章
