@@ -76,3 +76,9 @@ My implementation: [rcore](https://github.com/LearningOS/2024a-rcore-wang-zhuora
 ## Day 33 2024/10/29
 - 继续阅读rcore-tutorial 第五章
 - 相关笔记：[rcore进程管理](https://github.com/wang-zhuoran/rcore-os-opencamp2024/blob/main/CH5%3A%20%E8%BF%9B%E7%A8%8B%E7%AE%A1%E7%90%86%E7%AC%94%E8%AE%B0.md)
+
+## Day 34 2024/10/30
+- 开始写lab5
+
+## Day 35 2024/10/31
+- lab5完成
