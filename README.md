@@ -49,7 +49,7 @@ My implementation: [rcore](https://github.com/LearningOS/2024a-rcore-wang-zhuora
 - 阅读rcore-tutorial第一章
 
 ## Day 16 2024/10/12
-- 无（下午去Utrecht的德哈尔城堡玩了，晚上去海牙吃了大盘鸡
+- 无
 
 ## Day 17 2024/10/13
 - 阅读rcore-tutorial 第二章
