@@ -1,6 +1,5 @@
 # rcore-os-opencamp2024
 
-My implementation: [rcore](https://github.com/LearningOS/2024a-rcore-wang-zhuoran)
 
 参考资料：
 
@@ -80,8 +79,13 @@ My implementation: [rcore](https://github.com/LearningOS/2024a-rcore-wang-zhuora
 ## Day 34 2024/10/30
 - 开始写lab5
 
+## Day 
+
 ## Day 35 2024/10/31
 - lab5完成
 
 ## Day 42 2024/11/07
 - lab6 完成
+
+## Day 44 2024/11/09
+- lab8 完成
